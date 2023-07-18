@@ -8,7 +8,7 @@ Commparing support vector machine vs. Radial basis function on the MNIST dataset
 
 
 ## General
-The algorithms learn per algorithm a training set of MISIT,the hand written digit database.It makes predictions of new set of digit (test set).
+The algorithms learns a training set of MISIT (the hand written digit database) per algorithm and makes predictions of new set of digit (test set).
 
 The MINSIT databse got digits from 0 to 9
 
@@ -26,7 +26,7 @@ I will use google as an example, but similar process can be performed on other n
 1. Open google Colab
 2. Clone the project by:
 	```
-	!git clone https://github.com/elaysason/SVM-Kernels-Comparison-MNIST.git
+	!git clone https://github.com/RonDagani/SVM-Kernels-Comparison-MNIST.git
 	```
 	<img src="https://i.imgur.com/1vM7SEb.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=40% height=40% />
 
